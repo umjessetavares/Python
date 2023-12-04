@@ -6,7 +6,7 @@ person_old = '36'
 person_sport = 'volei'
 person_jogo = 'counter-strike'
 
-print('Meu nome é Jesse')
-print('eu tenho 36 anos de idade.')
-print('Meu esporte favorido é o Volei,')
-print('eu gosto de jogar fortnite nas horas vagas.')
+print('Meu nome é '+ person_name)
+print('eu tenho ' + person_old ' anos de idade.')
+print('Meu esporte favorido é o '+ person_sport + ',')
+print('eu gosto de jogar ' + person_jogo + ' nas horas vagas.')
