@@ -1,16 +1,1 @@
-# **Python** 
-
-
-
-## **Organização**
-
-* Os cursos estão organizados dentro das pastas
-* Os scripts estão nomeados com suas funções dentro das pastas
-* Os projetos estão dentro de pastas até serem movidos para um link próprio 
-
-## [Udemy](https://github.com/umjessetavares/python/tree/main/Udemy)
-* [print](https://github.com/umjessetavares/python/blob/main/Udemy/print.py)
-* [variables](https://github.com/umjessetavares/python/blob/main/Udemy/variables.py)
-* [strings](https://github.com/umjessetavares/python/blob/main/Udemy/strings.py)
-* [numbers](https://github.com/umjessetavares/python/blob/main/Udemy/numbers.py)
-* [input](https://github.com/umjessetavares/python/blob/main/Udemy/input.py)
+# Códigos e Projetos em Python
